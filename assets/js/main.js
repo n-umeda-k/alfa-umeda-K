@@ -18,7 +18,7 @@ const app = Vue.createApp({
       */
       correctAnswer: {
         stage1: {
-          q1: '52',
+          q1: 'AAA',
         },
         stage2: {
           q1: '03',
@@ -32,7 +32,7 @@ const app = Vue.createApp({
         }
       },
         stage4: {
-          p1: '12'}
+          q1: '12'}
 
       /* それぞれの問題が正解かどうか
       *  ex. 問題2-3を追加する場合は配列にfalseを追加します。
