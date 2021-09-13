@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #c39143;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #c39143;
   width: 12px;
   height: 24px;
 }
@@ -243,7 +243,7 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #e6ab4e;
 }
 
 .bg-color--gray {
@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: #e6ab4e;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #c39143;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #c39143;
 }
 
 .section-title--story {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #c39143;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+  background-color: #e6ab4e;
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #006837;
+  color: #c39143;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
